@@ -11,6 +11,27 @@ Minting tokens!
 
     Web3.js v1.2.1
 
+## How to run 
+With npm and node install run `npm install` on the root directory get to all the necessary packages.
+
+### Testing
+Change directory to eth-contracts
+
+    cd eth-contracts/
+
+Testing ERC721Mintable contract
+
+    truffle test test/TestERC721Mintable.js
+
+
+Testing SquareVerifier contract
+
+    truffle test test/TestSquareVerifier.js
+
+Testing SolnSquareVerifier contract
+
+    truffle test test/TestSolnSquareVerifier.js
+
 ## Contract Addresses
 Verifier (SquareVerifier) - 0xf6D2653Ca1D9f95d80e3633512eaF1F2156Afa7C
 
