@@ -3,10 +3,13 @@
 Minting tokens!
 
 ## Project Build Information
-Truffle v5.1.46 (core: 5.1.46)
-Solidity v0.5.16 (solc-js)
-Node v10.23.0
-Web3.js v1.2.1
+    Truffle v5.1.46 (core: 5.1.46)
+
+    Solidity v0.5.16 (solc-js)
+
+    Node v10.23.0
+
+    Web3.js v1.2.1
 
 ## Contract Addresses
 Verifier (SquareVerifier) - 0xf6D2653Ca1D9f95d80e3633512eaF1F2156Afa7C
